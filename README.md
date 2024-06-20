@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @AlexJameson
-- 👀 I’m interested in documentation for projects related to cloud technologies.
-- 🌱 I’m currently learning Python and SQL.
-- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/alexander-y-a87527152/) or [Telegram](https://t.me/username/alexjameson).
+- 👀 I’m a technical writer and creae Telegram bots in my spare time.
+- 📫 You can contact me via [LinkedIn](https://www.linkedin.com/in/alexander-y-a87527152/).
 
 <!---
 AlexJameson/AlexJameson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
